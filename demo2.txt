@@ -1,0 +1,25 @@
+[Requirement Gathering]
+   |
+   V
+[Design & Development] <-----> [Testing]
+   |                            |
+   V                            V
+[Meetings]                  [Bugs/Issues Reports]
+[Emails]                    [Feedback Sessions]
+[Project Management Tools]  [Test Plans]
+
+
+
+[Requirement Gathering]       [Design & Development]         [Testing]
+       |                               |                            |
+       V                               V                            V
+    [Stakeholder Meetings]       [Design Reviews]          [Test Planning Meetings]
+            |                           |                            |
+            V                           V                            V
+      [Requirement Documents]  [Design Specifications]   [Test Plans & Cases]
+            |                           |                            |
+            V                           V                            V
+    [Feedback & Clarification]   [Development Updates]   [Testing Reports & Issues]
+            |                           |                            |
+            V                           V                            V
+     [Revised Requirements]      [Code Review Feedback]    [Bug Reports & Fixes]
